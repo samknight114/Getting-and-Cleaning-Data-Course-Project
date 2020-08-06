@@ -5,7 +5,7 @@ date: "8/5/2020"
 output: html_document
 ---
 
-This Code Book serves as a summary of various fields in the supplied data frames MergeMeanSTD & MergeAverageMeans. Both of these data frames have been generated from UC Irvine's study on "Human Activity Recognition Using Smartphones" which gathered data on 30 subjects with smartphones in their pockets as they engaged in a variety of common physical activities.
+This Code Book serves as a summary of various fields in the supplied data "tidydata.txt". This table is the result of data that have been generated from UC Irvine's study on "Human Activity Recognition Using Smartphones" which gathered data on 30 subjects with smartphones in their pockets as they engaged in a variety of common physical activities.
 
 ### Data Frames
 
